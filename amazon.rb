@@ -23,10 +23,10 @@ while answer == "Shoes, shoes"
   counter += 25
   while answer == "Headphones, headphones"
   counter += 30
-end
+endcounter
 end 
 end
-puts counter
+puts 
   
 
   
