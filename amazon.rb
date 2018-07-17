@@ -25,6 +25,7 @@ while answer == "Shoes, shoes"
   counter += 30
 end
 end 
+end
 puts counter
   
   
