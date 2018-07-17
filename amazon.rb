@@ -1,7 +1,7 @@
 
 
-# amazon_hash = ["Shoes" =>40, "Laptop" => 500, "Water bottle" => 20, "Album" => 25, "Headphones" => 30]
-# amazon_hash.each do |item_name, price|
+amazon_hash = ["Shoes" =>40, "Laptop" => 500, "Water bottle" => 20, "Album" => 25, "Headphones" => 30]
+amazon_hash.each do |item_name, price|
   
 end
 puts "Please select your items:"
@@ -29,7 +29,7 @@ end
   counter += 30
 end
  puts counter
-
+end 
 
   
 
